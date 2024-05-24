@@ -4,6 +4,10 @@ def isprime(p):
 
 # votre code ici
         
+    for d in range(2, p):
+        if p%d == 0:
+            return False
+    
     return True
 
 def main():
