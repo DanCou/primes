@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# correction
+*_corr.py
+
+# Pytest stuff
+.pytest_cache/
